@@ -1,0 +1,12 @@
+.card-body{
+    height:250px;
+     overflow-y: scroll;
+}
+
+#body{
+    background-color: #2d2d2d;
+}
+
+.col-3{
+    padding-top: 1rem;
+}
